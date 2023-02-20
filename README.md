@@ -22,3 +22,5 @@ Helped over 3500 developers, to 2500+ problems on CodeGrepper :
 Microsoft Engage Mentee 2022
 <br/>
 Google-Kickstart Round B-2022: Global Rank -1531
+<br/>
+Qualified for the Pre-Final Round of International Youth Math Challenge

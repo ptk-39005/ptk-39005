@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <br/>
 Codechef- 4 star : <a href="https://www.codechef.com/users/regex9" target="_top">CodeChef Profile</a>
 <br/>
-Codeforces - Pupil : <a href="https://codeforces.com/profile/regex9" target="_top">CodeForces Profile</a>
+Codeforces - Expert : <a href="https://codeforces.com/profile/regex9" target="_top">CodeForces Profile</a>
 <br/>
 Leetcode : <a href="https://leetcode.com/lonaripratik6/" target="_top">Leetcode Profile</a>
 <br/>
